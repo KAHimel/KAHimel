@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Kowshik Ahamed Himel.</h1>
-<p align="center">Vibe coder || Building Apps, Games & AI/ML Solutions || Tech enthusiast || Forever student </p>
+<p align="center">Vibe coder || Apps, Games & AI/ML solutions builder || Tech enthusiast || Forever student </p>
 
 - 🔭 Building: **Something Meaningfull**
 - 🌱 Learning: Git-Github, App & Game Dev, AI/ML fundamentals

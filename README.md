@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Kowshik Ahamed Himel👋</h1>
-<p align="center">Studying CSE @ BAIUST | Vibe coder | Building Apps, Games & AI/ML Solutions | Tech enthusiast | Forever student </p>
+<h1 align="center">👋Hi, I'm Kowshik Ahamed Himel.</h1>
+<p align="center">Vibe coder || Building Apps, Games & AI/ML Solutions || Tech enthusiast || Forever student </p>
 
 - 🔭 Building: **Something Meaningfull**
 - 🌱 Learning: Git-Github, App & Game Dev, AI/ML fundamentals
-- ⚡ Fun: tea, bikes, and clean UI
 
 ### Tech I use
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

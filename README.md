@@ -83,7 +83,7 @@ If you think I could be a good fit — let's talk!
 ## 📬 Connect With Me
 [![Email](https://img.shields.io/badge/Email-kowshikahamed.study%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kowshikahamed.study@gmail.com) <br> 
 [![Email](https://img.shields.io/badge/Email-kowshikahamed.work%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:kowshikahamed.work@gmail.com)  <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kowshik%20Ahamed%20Himel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-ahamed-himel) <br>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kowshik%20Ahamed%20Himel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-ahamed-himel)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-@KAHimel2000-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KAHimel2000)  <br>
 [![Instagram](https://img.shields.io/badge/Instagram-kowshik.ahamed.himel-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kowshik.ahamed.himel) <br>
 [![YouTube](https://img.shields.io/badge/YouTube-@kowshikahamedhimel-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@kowshikahamedhimel)  <br>

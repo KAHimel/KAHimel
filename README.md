@@ -13,15 +13,15 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ## 🛠 Tech I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-![Flame](https://img.shields.io/badge/Flame-FF6F00?logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Flame](https://img.shields.io/badge/Flame-FF6F00?logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 

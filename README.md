@@ -88,7 +88,7 @@ If you think I could be a good fit — let's talk!
 [![Twitter](https://img.shields.io/badge/Twitter-@KAHimel2000-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KAHimel2000)  
 [![Instagram](https://img.shields.io/badge/Instagram-kowshik.ahamed.himel-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kowshik.ahamed.himel)  
 [![YouTube](https://img.shields.io/badge/YouTube-@kowshikahamedhimel-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@kowshikahamedhimel)  
-![Discord](https://img.shields.io/badge/Discord-kowshik.ahamed.himel?logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-kowshik.ahamed.himel-5865F2?logo=discord&logoColor=white)](https://discord.com/users/849288958840143892)
 
 ---
 

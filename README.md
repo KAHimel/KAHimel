@@ -21,7 +21,9 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 ---
 

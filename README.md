@@ -48,7 +48,7 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 📊 GitHub Stats (Stable)
+## 📊 GitHub Stats
 <!-- Using stable fork that rarely breaks -->
 <div align="center">
   
@@ -79,42 +79,14 @@ If you think I could be a good fit — let's talk!
 ---
 
 ## 📬 Connect With Me
-
-<p align="left">
-
-<a href="mailto:kowshikahamed.study@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20(Study)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="mailto:kowshikahamed.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20(Work)-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/KAHimel">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/kowshik-ahamed-himel">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/KAHimel2000">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/kowshik.ahamed.himel">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://youtube.com/@kowshikahamedhimel">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/kowshik.ahamed.himel">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-kowshikahamed.study%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kowshikahamed.study@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-kowshikahamed.work%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:kowshikahamed.work@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-KAHimel-181717?logo=github&logoColor=white)](https://github.com/KAHimel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kowshik%20Ahamed%20Himel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-ahamed-himel)  
+[![Twitter](https://img.shields.io/badge/Twitter-@KAHimel2000-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KAHimel2000)  
+[![Instagram](https://img.shields.io/badge/Instagram-kowshik.ahamed.himel-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kowshik.ahamed.himel)  
+[![YouTube](https://img.shields.io/badge/YouTube-@kowshikahamedhimel-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@kowshikahamedhimel)  
+![Discord](https://img.shields.io/badge/Discord-kowshik.ahamed.himel-5865F2?logo=discord&logoColor=white)
 
 ---
 

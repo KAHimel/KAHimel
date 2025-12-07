@@ -28,9 +28,9 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 ---
 
 ## 🔭 Current Projects
+- 🤖 **Info Agent**-A simple Q&A agent.  
 - 🤳 **Bangla Sign Language Detector** – AI/ML-based static sign detection.  
 - 📱 **ToDo App.**  
-- 🤖 **Info Agent**-A simple Q&A agent.  
 
 ---
 

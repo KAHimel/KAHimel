@@ -63,7 +63,7 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ## 🚀 Open to Work
 I’m currently open to:
-- Flutter internships  
+- Flutter app dev junior roles
 - AI/ML beginner-friendly roles  
 - Game Dev junior/intern roles  
 - Remote learning-based opportunities  

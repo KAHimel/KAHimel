@@ -27,14 +27,6 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 🌱 What I'm Learning Now
-- Deepening AI/ML fundamentals  
-- Advanced Flutter & Android  
-- Game development with Godot and Flame  
-- Clean architecture & scalable app design  
-
----
-
 ## 🔭 Current Projects
 - 🤳 **Bangla Sign Language Detector** – AI/ML-based static sign detection.  
 - 📱 **ToDo App.**  

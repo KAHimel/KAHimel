@@ -67,6 +67,17 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAHimel&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent&hide_border=true"/>
+</p>
+
 ---
 
 ## 🧑‍🚀 Fun Facts About Me

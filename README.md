@@ -1,164 +1,91 @@
----
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Kowshik+Ahamed+Himel+👋;CSE+Graduate+%26+Tech+Enthusiast;Building+Apps,+Games+%26+AI%2FML+Solutions;Forever+a+Student+of+Technology+🚀" alt="Typing SVG" />
+  
+  <p><b> CSE Graduate || Apps, Games & AI/ML Solutions Builder || Forever Student </b></p>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                 PROFILE VIEWS + FOLLOWERS             -->
-<!-- ══════════════════════════════════════════════════════ -->
+  <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KAHimel&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=58a6ff)
-![GitHub Followers](https://img.shields.io/github/followers/KAHimel?style=for-the-badge&color=0d1117&labelColor=58a6ff&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/KAHimel?style=for-the-badge&color=0d1117&labelColor=f78166&logo=github&label=TOTAL+STARS)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                   -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+AI%2FML+Developer;Deep+Learning+%26+Vision+Transformer+Builder;Game+Dev+Enthusiast+%F0%9F%8E%AE;Forever+Student+%F0%9F%94%81%F0%9F%92%BB%F0%9F%A4%93;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+  <a href="https://www.linkedin.com/in/kowshik-ahamed-himel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kowshikahamed.work@gmail.com"><img src="https://img.shields.io/badge/Work_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/KAHimel2000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://youtube.com/@kowshikahamedhimel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://discord.com/users/849288958840143892"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   MAIN STATS CARD                     -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=KAHimel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Kowshik's GitHub Stats" width="49%" />
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   STREAK STATS                        -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAHimel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" alt="Kowshik's GitHub Streak" width="49%" />
-
-</div>
+<br>
 
 ---
 
-## 🏆 GitHub Trophies
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a passionate learner who loves building things from scratch—whether it's functional apps, engaging games, or intelligent AI tools. I am currently in the phase of leveling up my skills while openly sharing my journey as a tech enthusiast. 
 
-<img src="https://github-profile-trophy.vercel.app/?username=KAHimel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" alt="KAHimel's GitHub Trophies" />
-
-</div>
-
----
-
-## 🗣️ Most Used Languages
-
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--          TOP LANGS (Compact + Donut)                  -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" alt="Top Languages Compact" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" alt="Top Languages Donut" width="40%" />
-
-</div>
+- 🚀 **Currently Focusing On:** AI/ML, Flutter, Android Development, and Game Dev.
+- 🛠️ **My Philosophy:** I love experimenting, breaking things on purpose, fixing them, and creating something better every time.
+- 🌱 **Fun Fact:** I’m a *forever student*—always hungry to learn new frameworks, engines, and technologies.
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🧰 Tech Stack & Tools
 
-<div align="center">
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAHimel&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=f78166&bg_color=1a1b27" alt="Kowshik's Contribution Graph" width="98%" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  SKILL ICONS                          -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-### Languages
-[![Skill Icons](https://skillicons.dev/icons?i=python,dart,kotlin,js&theme=dark)](https://skillicons.dev)
-
-### Frameworks & Engines
-[![Skill Icons](https://skillicons.dev/icons?i=flutter,tensorflow,pytorch,godot&theme=dark)](https://skillicons.dev)
+### AI, Machine Learning & Game Dev
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flame](https://img.shields.io/badge/Flame-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### Tools & Platforms
-[![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,linux&theme=dark)](https://skillicons.dev)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📦 Repository Highlights
+## 🔭 Featured Projects
+
+| Project | Description | Type |
+| :--- | :--- | :--- |
+| **🤖 Info Agent** | A simple yet powerful Q&A agent built with Google's ADK and Gemini models. | `AI / ML` |
+| **🤟 Bangla Sign Language Detector** | Deep learning system using a Vision Transformer (ViT) to recognize Bangla Static Sign Language gestures. | `Deep Learning` |
+| **✅ ToDo App** | A clean, responsive, and simple ToDo list application built with Dart/Flutter. | `Flutter / App` |
+| **🧮 Android Calculator App** | A functional calculator with basic arithmetic operations built using Kotlin and XML. | `Android / Kotlin` |
+| **🎓 CLI Student Grader** | A command-line Dart application for teachers to manage students and record their scores. | `Dart / CLI` |
+| **👤 Flutter Profile App** | A responsive profile app demonstrating mastery of basic Flutter widgets and layouts. | `Flutter` |
+| **📚 Ostad Modules** | Various assignments demonstrating core OOP concepts, AI integrations, and Flutter capabilities. | `Education` |
+
+---
+
+## 💼 Career Goals & Open To Work
+
+I am actively seeking opportunities to apply my skills, learn from experienced professionals, and contribute to meaningful projects. 
+
+> **I am currently open to:**
+> - Junior/Intern roles in **Flutter App Development**.
+> - Beginner-friendly roles in **AI/ML**.
+> - Junior/Intern roles in **Game Development**.
+> - Remote learning-based or open-source contribution opportunities.
+
+**Long-term vision:** To publish meaningful apps/games, build AI tools that genuinely help people, and give back to the open-source community.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  PINNED REPO CARDS                    -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/KAHimel/Final_Year_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KAHimel&repo=Final_Year_Project&theme=tokyonight&hide_border=true&show_owner=false" width="49%" />
-</a>
-<a href="https://github.com/KAHimel/Info-Agent-A-simple-Q-A-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KAHimel&repo=Info-Agent-A-simple-Q-A-agent&theme=tokyonight&hide_border=true&show_owner=false" width="49%" />
-</a>
-
-<a href="https://github.com/KAHimel/ToDo-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KAHimel&repo=ToDo-App&theme=tokyonight&hide_border=true&show_owner=false" width="49%" />
-</a>
-<a href="https://github.com/KAHimel/week1_task1_android-calculator-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KAHimel&repo=week1_task1_android-calculator-app&theme=tokyonight&hide_border=true&show_owner=false" width="49%" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=KAHimel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Kowshik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" width="48%" />
 </div>
 
----
-
-## ⏱️ WakaTime Coding Stats
-
-> 💡 **Want live coding time stats?** Sign up at [wakatime.com](https://wakatime.com) and install the plugin in VS Code — then replace `YOUR_WAKATIME_USERNAME` below with your username to track daily coding hours!
+<br>
 
 <div align="center">
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
--->
-
+  <p>✨ <i>Thanks for visiting my profile! Let's build something awesome together.</i> ✨</p>
 </div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/KAHimel/KAHimel/blob/output/github-contribution-grid-snake-dark.svg)
-
-> ⚙️ **To enable the snake animation**, add this GitHub Actions workflow to your profile repo:
->
-> Create `.github/workflows/snake.yml` with the content from 👉 [platane/snk](https://github.com/platane/snk#usage)
-
----
-
-### 💬 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-*Stats generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) · [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) · [profile-trophy](https://github.com/ryo-ma/github-profile-trophy) · [activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph) · [skillicons](https://github.com/tandpfun/skill-icons)*
-
-</div>
-
----

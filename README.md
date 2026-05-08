@@ -59,7 +59,7 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
   <img src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent"/>
 </p>
 
-<div>
+</div>
 
 ---
 

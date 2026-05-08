@@ -48,15 +48,22 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 ---
 
 ## 📊 GitHub Stats
-<!-- Using stable fork that rarely breaks -->
-<div align="center">
-  
-![Kowshik's GitHub Stats](https://github-readme-stats-git-masterrk-rickstaa.vercel.app/api?username=KAHimel&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats-git-masterrk-rickstaa.vercel.app/api/top-langs/?username=KAHimel&layout=compact&theme=transparent)
+<div align="center">
+
+
+
+![Kowshik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAHimel&show_icons=true&theme=transparent)
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&layout=compact&theme=transparent)
+
+
 
 </div>
-
 ---
 
 ## 🧑‍🚀 Fun Facts About Me

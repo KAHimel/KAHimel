@@ -28,9 +28,14 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 ---
 
 ## 🔭 All Projects
-- 🤖 **Info Agent** - A simple Q&A agent.  
-- 🤳 **Bangla Sign Language Detector** - AI/ML-based static sign detection.  
-- 📱 **ToDo App** - A clean and simple ToDo list app.  
+- 🤖 **Info Agent** - A simple yet powerful Q&A agent built with Google's ADK and Gemini models.
+- 🤟 **Bangla Sign Language Detector** - Deep learning system using a Vision Transformer (ViT) to recognize Bangla Static Sign Language gestures.
+- ✅ **ToDo App** - A clean and simple ToDo list app built with Dart/Flutter.
+- 👤 **Flutter Profile App** - A simple and responsive profile app built using basic Flutter widgets and layout system.
+- 🎓 **CLI Student Grader** - A command-line app in Dart for teachers to manage students and record scores.
+- 📚 **Ostad Module 4 Assignment** - A Dart project demonstrating core OOP concepts: class, constructor, and inheritance.
+- 📱 **Ostad Flutter & AI Assignments** - Solutions for Module 1 of the App Development with Flutter & AI course.
+- 🧮 **Android Calculator App** - A simple calculator with basic arithmetic operations built using Kotlin + XML.
 
 ---
 

@@ -53,8 +53,6 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAHimel&show_icons=true&theme=transparent&hide_border=true&title_color=FEC001&icon_color=FEC001&text_color=FFFFFF"/>
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHimel&layout=compact&theme=transparent&hide_border=true&title_color=FEC001&text_color=FFFFFF"/>
 </p>
 

@@ -54,9 +54,8 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent&hide_border=true&ring=00A9E0&fire=00A9E0&currStreakLabel=00A9E0&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF"/>
 </p>
 
 </div>

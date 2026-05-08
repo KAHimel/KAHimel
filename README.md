@@ -63,15 +63,6 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
   
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAHimel&theme=github_dark"/>
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAHimel&theme=github_dark"/>
-  
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAHimel&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAHimel&theme=github_dark&utcOffset=6"/>
   
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAHimel&theme=github_dark"/>
 </p>

@@ -27,15 +27,18 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 🔭 All Projects
-- 🤖 **Info Agent** - A simple yet powerful Q&A agent built with Google's ADK and Gemini models.
-- 🤟 **Bangla Sign Language Detector** - Deep learning system using a Vision Transformer (ViT) to recognize Bangla Static Sign Language gestures.
-- ✅ **ToDo App** - A clean and simple ToDo list app built with Dart/Flutter.
-- 👤 **Flutter Profile App** - A simple and responsive profile app built using basic Flutter widgets and layout system.
-- 🎓 **CLI Student Grader** - A command-line app in Dart for teachers to manage students and record scores.
-- 📚 **Ostad Module 4 Assignment** - A Dart project demonstrating core OOP concepts: class, constructor, and inheritance.
-- 📱 **Ostad Flutter & AI Assignments** - Solutions for Module 1 of the App Development with Flutter & AI course.
-- 🧮 **Android Calculator App** - A simple calculator with basic arithmetic operations built using Kotlin + XML.
+## 🔭 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 **Info Agent** | A simple yet powerful Q&A agent built with Google's ADK and Gemini models. | Python, Gemini API |
+| 🤟 **Bangla Sign Language Detector** | Deep learning system using a Vision Transformer (ViT) to recognize Bangla static sign language gestures. | PyTorch, OpenCV, ViT |
+| ✅ **ToDo App** | A clean and simple ToDo list app built with Flutter. | Flutter, Dart |
+| 👤 **Flutter Profile App** | A responsive profile app built using basic Flutter widgets and layouts. | Flutter, Dart |
+| 🎓 **CLI Student Grader** | Command-line app for managing students and recording scores. | Dart |
+| 📚 **Ostad Module 4 Assignment** | Dart project demonstrating core OOP concepts like classes, constructors, and inheritance. | Dart |
+| 📱 **Ostad Flutter & AI Assignments** | Solutions for Flutter & AI course assignments and practice tasks. | Flutter, Dart, AI Basics |
+| 🧮 **Android Calculator App** | Basic calculator app with arithmetic operations using native Android UI. | Kotlin, XML |
 
 ---
 

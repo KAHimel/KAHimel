@@ -59,23 +59,21 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent&hide_border=true&ring=FEC001&fire=FEC001&currStreakLabel=FEC001&sideLabels=FEC001&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAHimel&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAHimel&theme=github_dark" height="170"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent&hide_border=true&ring=FEC001&fire=FEC001&currStreakLabel=FEC001&sideLabels=FEC001&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAHimel&theme=github_dark" height="170"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAHimel&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAHimel&theme=github_dark&utcOffset=6" height="170"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAHimel&theme=github_dark"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAHimel&theme=github_dark" height="170"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAHimel&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAHimel&theme=github_dark&utcOffset=6"/>
+  
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAHimel&theme=github_dark"/>
 </p>
 
 ---

@@ -31,14 +31,18 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🤖 **Info Agent** | A simple yet powerful Q&A agent built with Google's ADK and Gemini models. | Python, Gemini API |
-| 🤟 **Bangla Sign Language Detector** | Deep learning system using a Vision Transformer (ViT) to recognize Bangla static sign language gestures. | PyTorch, OpenCV, ViT |
-| ✅ **ToDo App** | A clean and simple ToDo list app built with Flutter. | Flutter, Dart |
-| 👤 **Flutter Profile App** | A responsive profile app built using basic Flutter widgets and layouts. | Flutter, Dart |
-| 🎓 **CLI Student Grader** | Command-line app for managing students and recording scores. | Dart |
-| 📚 **Ostad Module 4 Assignment** | Dart project demonstrating core OOP concepts like classes, constructors, and inheritance. | Dart |
-| 📱 **Ostad Flutter & AI Assignments** | Solutions for Flutter & AI course assignments and practice tasks. | Flutter, Dart, AI Basics |
-| 🧮 **Android Calculator App** | Basic calculator app with arithmetic operations using native Android UI. | Kotlin, XML |
+| 🤖 **[Info Agent](https://github.com/KAHimel/Info-Agent-A-simple-Q-A-agent)** | A simple yet powerful AI Q&A agent built using Google's ADK and Gemini models with real-time web search. | Python, Gemini API, Google ADK |
+| 🤟 **[Bangla Sign Language Detector](https://github.com/KAHimel/Final_Year_Project)** | Final year deep learning system recognizing Bangla static sign language gestures using a Vision Transformer (ViT) trained on a custom dataset. | Python, PyTorch, ViT, OpenCV |
+| 🩸 **[Blood In Need](https://github.com/KAHimel/blood_in_need)** | A responsive Flutter app UI for blood donation requests, connecting donors and recipients. | Flutter, Dart |
+| 📋 **[Contact List](https://github.com/KAHimel/contact_list)** | A clean Flutter contact management app built using core widgets and layout components. | Flutter, Dart |
+| 🕐 **[Clock App](https://github.com/KAHimel/Clock-App)** | A simple and responsive Flutter clock UI built with basic widgets and layout components. | Flutter, Dart |
+| ✅ **[ToDo App](https://github.com/KAHimel/ToDo-App)** | A clean Flutter ToDo list app with a responsive UI built using core widgets. | Flutter, Dart |
+| ✅ **[Module 7 ToDo App](https://github.com/KAHimel/Ostad-Module7-Assignment-ToDo-App)** | Ostad Module 7 assignment — full-featured Flutter ToDo app with local persistence using sqflite and Provider state management. | Flutter, Dart, sqflite, Provider |
+| 👤 **[Flutter Profile App](https://github.com/KAHimel/Ostad_flutter_profile_app)** | A responsive Flutter profile app built using core widgets and layout system. | Flutter, Dart |
+| 🎓 **[CLI Student Grader](https://github.com/KAHimel/Ostad---CLI-Student-Grader)** | Industry-structured CLI app for managing students, recording scores, calculating grades, and generating report cards. | Dart |
+| 📚 **[Module 4 OOP Assignment](https://github.com/KAHimel/Ostad-Module4-Assignment)** | Dart project demonstrating core OOP concepts: classes, constructors, inheritance, and abstraction. | Dart |
+| 📱 **[Flutter & AI Assignments](https://github.com/KAHimel/Ostad_Assignments_App_Dev_with_Flutter_and_AI)** | Solutions for Module 1 of the Ostad App Development with Flutter & AI course. | Flutter, Dart |
+| 🧮 **[Android Calculator](https://github.com/KAHimel/week1_task1_android-calculator-app)** | Basic Android calculator with arithmetic operations built natively with Kotlin and XML layouts. | Kotlin, XML |
 
 ---
 

@@ -27,7 +27,7 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 🔭 Projects
+## 🔭 My Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -46,7 +46,7 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 💼 Career Goals
+## 💼 My Career Goals
 - Get an internship or remote role in **Flutter dev**, **AI/ML**, or **Game Dev.**  
 - Publish meaningful apps and games.  
 - Build AI tools that genuinely help people.  
@@ -54,13 +54,14 @@ I'm still in the noob phase of my developer journey, but I love experimenting, b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=KAHimel&theme=transparent&hide_border=true&ring=FEC001&fire=FEC001&currStreakLabel=FEC001&sideLabels=FEC001&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
-  
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAHimel&theme=github_dark"/>
-  
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAHimel&theme=github_dark"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=KAHimel&theme=great-gatsby&hide_border=true&border_radius=5&type=png"/><br>
+  <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAHimel&theme=great_gatsby"/><br>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAHimel&theme=great_gatsby"/>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAHimel&theme=great_gatsby&utcOffset=6"/><br>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAHimel&theme=great_gatsby"/>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAHimel&theme=great_gatsby"/>
 </p>
 
 ---
